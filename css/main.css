@@ -1,0 +1,24 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#logo{
+  text-align: center;
+  width: 20%;
+
+}
+.logo-container{
+  text-align: center;
+  background: gray;
+  margin-bottom: 20px;
+}
+.añadirList{
+  background: #88C7BA;
+  padding: 10px;
+  font-size: 16px;
+
+}
+.display-none {
+  display: none;
+}
